@@ -21,12 +21,49 @@ I am a Computer Engineering student with a strong interest in scientific researc
 
 ---
 
-## 📊 GitHub Statistics
+## 🎯 Current Focus
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Abdulkader&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
+- 📚 Studying Computer Engineering
+- 🔬 Developing Scientific Research Skills
+- 🤖 Artificial Intelligence
+- 💻 Software Engineering
+- 🌍 Building Technology with Real-World Impact
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Abdulkader&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+---
+
+## 🚀 Current Projects
+
+### ECG Arrhythmia Detection
+Developing an AI-based system for detecting cardiac arrhythmias from ECG signals using machine learning and signal processing techniques.
+
+### Daily Muslim Companion
+Building a Flutter application that provides Quran, Adhkar, prayer times, and other daily Islamic features.
+
+### University Projects
+Working on software engineering and computer engineering projects as part of my academic journey.
+
+---
+
+## 🔬 Research Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Medical AI
+- Signal Processing
+- Software Engineering
+- Intelligent Systems
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Operating Systems
+- Database Systems
+- Machine Learning
+- Software Engineering
+- Git & GitHub
+---
+
+## 🎯 Long-Term Goal
+
+To contribute to scientific research and develop intelligent technologies that solve real-world problems through engineering, artificial intelligence, and innovation.
